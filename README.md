@@ -1,9 +1,3 @@
-# My Project
-
-This is a placeholder README file for "My Project". Please replace this content with a detailed description of your actual project.
-
-## Table of Contents
-
 # Titanic — Machine Learning From Disaster
 
 A small project implementing data exploration and basic machine learning models for the Kaggle "Titanic: Machine Learning from Disaster" competition.
